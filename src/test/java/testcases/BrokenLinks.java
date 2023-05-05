@@ -25,6 +25,10 @@ public class BrokenLinks {
 		String link = all.get(i).getAttribute("href");
 		System.out.println(link);
 		if(link==""|| link==null) {
+			
+			
+			
+			
 			continue;
 			
 		}
