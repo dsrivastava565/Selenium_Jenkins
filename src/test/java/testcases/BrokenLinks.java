@@ -27,8 +27,6 @@ public class BrokenLinks {
 		if(link==""|| link==null) {
 			
 			
-			
-			
 			continue;
 			
 		}
